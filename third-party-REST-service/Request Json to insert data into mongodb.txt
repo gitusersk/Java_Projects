@@ -1,0 +1,7 @@
+{
+	"id":"100001",
+	"empName":"Dharmesh Kumar",
+	"empCompany":"Falconide Solutions",
+	"empCity":"Noida",
+	"jobLevel":"5"
+}
